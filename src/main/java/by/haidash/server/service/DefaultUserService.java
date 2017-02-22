@@ -8,7 +8,7 @@ import java.util.List;
 
 import by.haidash.server.model.User;
 
-import static ru.instinctools.server.model.tables.Users.USERS;
+import static by.haidash.server.model.tables.Users.USERS;
 
 @Service
 public class DefaultUserService implements UserService {

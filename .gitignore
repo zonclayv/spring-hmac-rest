@@ -1,3 +1,5 @@
 .mvn
 .idea
 *.iml
+/target/
+/src/main/generated/
